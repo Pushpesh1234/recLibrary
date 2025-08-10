@@ -3,7 +3,8 @@
         "vscode": {
             "extensions": [
                 "file-icons.file-icons",
-                "esbenp.prettier-vscode"
+                "esbenp.prettier-vscode",
+                "ritwickdey.liveserver"
             ]
         }
     }
