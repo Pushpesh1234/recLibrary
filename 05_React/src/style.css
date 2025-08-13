@@ -1,0 +1,29 @@
+.card{
+    max-width: 200px;
+    border:2px,solid,black;
+    border-radius: 6px
+    
+}
+
+.card img{
+    width:100%;
+    margin-left:0;
+    background-color:rgba(0, 0, 0, 0.699)
+}
+
+.card div h2,.card div h3,.card div p{ 
+    margin: 8px 08px 8px ;
+   
+    
+}
+.container{
+    display:flex;
+    gap:20px;
+    /* justify-content: space-between; */
+    /* /* gap:4px; */
+    /* align-content:space-evenly; */
+    flex-wrap: wrap;
+    
+    
+
+}
