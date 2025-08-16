@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card{
+    max-width:200px;
+    border: 1px solid black;
+    border-radius:3px;
+   
+}
+
+.card img{
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.212);
+}
+
+.card h2, .card h3, .card p{
+padding:8px 4px 6px 8px;
+    margin:0
+}
