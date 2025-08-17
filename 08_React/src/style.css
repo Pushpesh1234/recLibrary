@@ -1,0 +1,30 @@
+.basket{
+    display: flex;
+    column-gap: 300px;
+    width:50%;
+    margin:auto;
+    
+}
+
+.reuseComp1{
+  
+    display:flex;
+    align-items: center;
+    column-gap: 80px;
+}
+
+.reuseComp2{
+   
+    display:Flex;
+    align-items: center;
+    column-gap: 80px;
+}
+button {
+width:30px;
+height:40px;
+}
+
+ button img{
+    width:100%
+}
+
